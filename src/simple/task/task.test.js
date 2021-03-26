@@ -11,7 +11,7 @@ describe('task',() => {
       const taskTitle = 'Order Pizza';
       const taskCreated = new Date().toISOString();
       const taskCategory = taskCategories.PURCHASING;
-      const taskWindow = timeWindow.WORKNIGHT;
+      const taskWindow = timeWindows.WORKNIGHT;
       const priority = 1;
       const result = Task({
         taskTitle,
