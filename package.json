@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "jhg-common": "^0.3.0",
+    "jhg-common": "https://github.com/johngagon/jhg-common",
     "joi": "^17.4.0",
     "joi-to-json": "^1.2.0",
     "joigoose": "^8.0.1",
