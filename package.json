@@ -1,6 +1,6 @@
 {
   "name": "jhg-model",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A basic model for my clean, safe MDA.",
   "author": "John H. Gagon",
   "license": "MIT",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "jhg-common": "^0.2.0",
+    "jhg-common": "^0.3.0",
     "joi": "^17.4.0",
     "joi-to-json": "^1.2.0",
     "joigoose": "^8.0.1",
