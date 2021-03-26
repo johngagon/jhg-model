@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["jsdoc"],
+  "root": true,
+  "rules": {
+    "key-spacing": "off",
+    "jsdoc/check-alignment": "error"
+  }
+}
